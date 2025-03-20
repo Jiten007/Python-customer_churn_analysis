@@ -35,7 +35,11 @@
 **Business Recommendations**
 
 ✅ **Encourage Long-Term Contracts**: Offer **discounts on annual plans** to reduce churn from **month-to-month** subscribers.
+
 ✅ **Improve Retention of New Customers**: Focus on **tenure < 3 months** by offering **welcome discounts** or **early engagement programs**.  
+
 ✅ **Introduce Auto-Payment Discounts**: Since **electronic check users churn the most**, **incentivizing credit card or bank transfer payments** can help.  
+
 ✅ **Targeted Offers for Fiber Optic Customers**: Since fiber users churn more, offering **better pricing, bundling with other services, or premium support** might help.  
+
 ✅ **Enhance Support Services**: Customers who **opt out of Tech Support & Security services** churn more—offering **free trials** or **discounted packages** can help retain them.
